@@ -5,6 +5,13 @@
 
 Este projeto foi feito como parte integrante da avaliação do Módulo 1 do curso Data Analytics da Resilia Educação da turma 20. Cada submenu dentro do menu inicial foi elaborado por um integrante do Squad 9, que é composto pelos estudantes:
 
+- Aline Aparecida;
+
+- Camilla Sampaio;
+
+- Luiza Sampaio;
+
+- Thiago Vasconcelos
 
 
 ## Descrição do Projeto
