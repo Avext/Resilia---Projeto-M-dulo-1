@@ -1,8 +1,9 @@
-# <font color="#DAA520">Resilia-Projeto-Módulo-1</font>
+# <font color="#DAA520">Resilia - Projeto do Módulo-1</font>
+
 
 ## Objetivo do Projeto
 
-Este projeto foi feito como parte integrante da avaliação do Módulo 1 do curso Data Analytics da Resilia Educação da turma 20. Foi elaborado pelo Squad 9 composto pelos estudantes:
+Este projeto foi feito como parte integrante da avaliação do Módulo 1 do curso Data Analytics da Resilia Educação da turma 20. Cada submenu dentr do menu inicial foi elaborado por um integrante do Squad 9, que é composto pelos estudantes:
 
 
 
@@ -18,7 +19,7 @@ Aqui descrevemos com mais detalhes as cada opção de forma estruturada.
 		
 	[1] Dúvidas sobre conta
 	[2] Dúvidas sobre transferência
-	[3] Dúvida sobre esqueci
+	[3] Dúvida sobre pagamento
 	[4] Dúvidas sobre cartão
 	[5] Encerrar o atendimento
 
@@ -45,7 +46,39 @@ Aqui descrevemos com mais detalhes as cada opção de forma estruturada.
 
 ### [2] Dúvidas sobre transferências
 
-### [3] Dúvidas sobre ?
+- Ao acessar este menu irão surgir as seguintes opções:
+
+		[1] TED
+		[2] DOC
+		[3] PIX
+
+- Selecionando as opções [1],[2] ou [3] a resposta será estruturada da seguinte forma:
+
+				"Exibe a informação solicitada"
+	
+				[1] Voltar ao início
+				[2] Sair
+
+	 - Aqui as opções [1] e [2] retornam o usuário ao ao menu [Dúvidas sobre transferências] e encerra a a execução programa respectivamente.
+
+### [3] Dúvidas sobre pagamento
+
+- Ao acessar este menu irão surgir as seguintes opções:
+
+		[1] Como faço para pagar contas?
+		[2] Qual o prazo de compensação após o pagamento?
+		[3] Onde encontro o comprovante de pagamento?
+		[0] Sair
+
+- A opção [0] termina o atendimento do usuário encerrando a execução do código.	
+- Selecionando as opções [1],[2] ou [3] a resposta será estruturada da seguinte forma:
+
+				"Exibe a informação solicitada"
+	
+				[1] Voltar ao submenu [Pagamentos]
+				[2] Sair
+
+	 - Aqui as opções [1] e [2] retornam o usuário ao submenu [Pagamentos] e encerra a a execução programa respectivamente.
 
 ### [4] Dúvidas sobre cartão
 
@@ -106,39 +139,6 @@ Aqui descrevemos com mais detalhes as cada opção de forma estruturada.
 > **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
 
  [Handlebars templates](http://handlebarsjs.com/)
-
-
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 
 ## UML diagrams
