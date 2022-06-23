@@ -1,5 +1,6 @@
 # <font color="#DAA520">Resilia - Projeto do Módulo-1</font>
 
+![](https://raw.githubusercontent.com/Avext/Resilia---Projeto-M-dulo-1/main/capa.png)
 
 ## Objetivo do Projeto
 
