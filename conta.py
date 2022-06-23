@@ -38,7 +38,7 @@ entre em contato com um de nossos atendentes através de um de nossos telefones 
             if sair_retornar() == False:
                 return  False
         elif pergunta == 3:
-            print ('''\n\33[1m\Quanto tempo leva para minha conta ficar ativa?\33\n\n[0mA conta pode ser encerrada pelo APP ou diretamente na agência.
+            print ('''\n\33[1m\Como encerro minha conta?\33\n\n[0mA conta pode ser encerrada pelo APP ou diretamente na agência.
 Para encerrar pelo APP basta ir em Menu> Minha conta> Encerrar conta e fornecer os dados necessários.
 Para encerrar a conta na agência, basta ir em sua agência e falar com um de nossos atendentes.\n''')
             if sair_retornar() == False:
